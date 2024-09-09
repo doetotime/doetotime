@@ -130,5 +130,21 @@
             <img width="12" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"/>
              <img width="12" />
+               <img width="12" />
+            <img src="https://cdn.jsdelivr.net/g
+               <img width="12" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg"  height="40" alt="django rest logo" />
+            <img width="12" />h/devicons/devicon@latest/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
+            <img width="12" />
+             <img width="12" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg"  height="40" alt="vuetify logo" />
+            <img width="12" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg"  height="40" alt="qt logo" />
+            <img width="12" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg"  height="40" alt="rxjs logo" />
+            <img width="12" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg"  height="40" alt="socket.io logo" />
+            <img width="12" />
+              
 </div>
 <br clear="both" />
