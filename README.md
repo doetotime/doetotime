@@ -1,4 +1,4 @@
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://media.licdn.com/dms/image/v2/D4E16AQGMgcEbSbxW-w/profile-displaybackgroundimage-shrink_200_800/B4EZm4iealHIAU-/0/1759737670114?e=2147483647&v=beta&t=RVw3i7EKNepoet6sVaGN_OgEvEX0GBFLy1y_5m5AcNc)" height="40" alt="javascript logo"  />
+<img src="https://github.com/doetotime/doetotime/blob/main/1759737670114.jpg" height="40" alt="javascript logo"  />
 
 
 # Spiritual Programmer 😇
