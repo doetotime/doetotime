@@ -1,4 +1,4 @@
-<img src="https://github.com/doetotime/doetotime/blob/main/1759737670114.jpg" height="40" alt="javascript logo"  />
+<img src="https://github.com/doetotime/doetotime/blob/main/1759737670114.jpg" height="80" width="80"  alt="javascript logo"  />
 
 
 # Spiritual Programmer 😇
