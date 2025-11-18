@@ -1,7 +1,7 @@
 <img src="https://github.com/doetotime/doetotime/blob/main/1759737670114.jpg" height="50%" width="100%"  alt="javascript logo"  />
 
 
-# Spiritual Programmer 😇 Bsc Computer Science 💻⚛️♾️ 
+### Spiritual Programmer 😇 Bsc Computer Science 💻⚛️♾️ 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
